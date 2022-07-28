@@ -74,6 +74,7 @@
   .nav-button{
     width: 90px;
    height: 30px;
+	  margin-bottom: 1.5em;
    font-family: 'Roboto', sans-serif;
    font-size: 9px;
    text-transform: uppercase;
@@ -92,6 +93,7 @@
  .nav-button1{
   width: 100px;
  height: 30px;
+ margin-bottom: 1.5em;
  font-family: 'Roboto', sans-serif;
  font-size: 9px;
  text-transform: uppercase;
